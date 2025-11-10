@@ -1,0 +1,5 @@
+  const {note} = props ;
+
+  means  
+
+  hum props ki jagah note likh sakte hai

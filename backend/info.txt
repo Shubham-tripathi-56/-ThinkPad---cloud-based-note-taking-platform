@@ -1,0 +1,7 @@
+to add note first copy headder in file fetchuser.js then go thunderClient and copy headder and add 
+add jwt token to user login using creds responce then hit api and find user data
+
+//---------------------------------------------------------------------------------------------------------//
+
+to fatch note first copy headder in file fetchuser.js then go thunderClient and copy headder and add 
+add jwt token to user login using creds responce then also add headder in content-type application/json then hit api and find user data

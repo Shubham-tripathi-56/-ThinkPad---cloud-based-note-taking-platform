@@ -1,0 +1,12 @@
+// {
+//     "launch": {
+
+//         "configurations": [],
+//         "compounds": []
+//     }
+// }
+
+{
+"workbench.editor.showTabs": "multiple",
+"workbench.editor.enablePreview": false,
+}
